@@ -1,1 +1,2 @@
 this is test and first repositorys file
+ok now i edited this to check the features of git hub
